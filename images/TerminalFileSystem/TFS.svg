@@ -1,0 +1,8 @@
+<svg width="300" height="600" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="null" id="svg_22">
+   <rect stroke="#000" id="svg_5" height="249.76496" width="300.8238" y="-0.22004" x="-0.56627" fill="#000000"/>
+   <rect stroke="#000" id="svg_14" height="20.38898" width="138.08306" y="185.82937" x="132.58524" fill="#0fa"/>
+   <rect stroke="#000" transform="matrix(1.74356 1.80215 -1.74356 1.80215 266.215 -129.693)" rx="1" id="svg_15" height="8" width="42.56497" y="104.18373" x="-24.7422" fill="#0fa"/>
+   <rect stroke="#000" transform="matrix(1.74356 -1.80215 1.74356 1.80215 -286.087 52.4652)" stroke-width="0" rx="3" id="svg_16" height="8" width="42.56497" y="118.76903" x="61.07121" fill="#0fa"/>
+  </g>
+</svg>
